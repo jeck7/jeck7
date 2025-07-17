@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi  👋
+Hi, I’m a Java and React developer working on the AdminPanel project. My focus is on building robust backend services with Java (Spring Boot) and creating intuitive, responsive user interfaces with React. I’m passionate about delivering high-quality features, optimizing performance, and ensuring a seamless admin experience. I’m always open to feedback and collaboration—feel free to connect if you have ideas or want to contribute!
 <!--
 **jeck7/jeck7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
