@@ -1,8 +1,8 @@
 # 👋 Hi! I’m Hristo – Full Stack Developer
 
-I have experience building modern REST API applications with **Node.js**, **TypeScript**, **MongoDB**, and **Express**. I follow best practices for architecture, security, and API documentation in my work.
+I have some experience building modern REST API applications with **Node.js**, **TypeScript**, **MongoDB**, and **Express**. I follow best practices for architecture, security, and API documentation in my work.
 
-I am also a Java and React developer working on the AdminPanel project. My focus is on building robust backend services with **Java (Spring Boot)** and creating intuitive, responsive user interfaces with **React**. I’m passionate about delivering high-quality features, optimizing performance, and ensuring a seamless admin experience.
+I am also a Java and React developer. My focus is on building robust backend services with **Java (Spring Boot)** and creating intuitive, responsive user interfaces with **React**. I’m passionate about delivering high-quality features, optimizing performance, and ensuring a seamless admin experience.
 
 ---
 
