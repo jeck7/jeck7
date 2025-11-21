@@ -211,7 +211,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 - 🌐 **Portfolio:** [Your Portfolio URL]
 - 💼 **LinkedIn:** [Your LinkedIn Profile]
-- 📧 **Email:** your.email@example.com
+- 📧 **Email:** hristoxs@gmail.com
 
 ---
 
