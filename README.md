@@ -211,7 +211,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 - 🌐 **Portfolio:** <a href="https://yourportfolio.com" target="_blank" rel="noopener noreferrer">Your Portfolio URL</a>
 - 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer">Your LinkedIn Profile</a>
-- 📧 **Email:** <a href="mailto:hristoxs@gmail.com" target="_blank" rel="noopener noreferrer">your.email@example.com</a>
+- 📧 **Email:** <a href="mailto:hristoxs@gmail.com" target="_blank" rel="noopener noreferrer">hristoxs@gmail.com</a>
 
 ---
 
