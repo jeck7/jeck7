@@ -4,9 +4,9 @@
   
   ### Passionate about building scalable web applications with modern technologies
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  <a href="https://yourportfolio.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:your.email@example.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   
 </div>
 
@@ -86,7 +86,7 @@ I'm a **Full Stack Developer** with expertise in building modern, scalable web a
 ## 📁 Featured Projects
 
 ### 🏋️ Fitness Booking Platform
-**Live:** [fitness-booking.fit](https://fitness-booking.fit/) | **For Sale:** [View Details](https://fitness-booking.fit/for-sale)
+**Live:** <a href="https://fitness-booking.fit/" target="_blank" rel="noopener noreferrer">fitness-booking.fit</a> | **For Sale:** <a href="https://fitness-booking.fit/for-sale" target="_blank" rel="noopener noreferrer">View Details</a>
 
 Full-stack fitness booking application with real-time scheduling, user management, and payment integration.
 
@@ -116,7 +116,7 @@ Full-stack fitness booking application with real-time scheduling, user managemen
 ---
 
 ### 💰 Liquid Pay - Payment Platform
-**Live:** [liquidpay.ink](https://liquidpay.ink/) | **Features:** [View Features](https://liquidpay.ink/features)
+**Live:** <a href="https://liquidpay.ink/" target="_blank" rel="noopener noreferrer">liquidpay.ink</a> | **Features:** <a href="https://liquidpay.ink/features" target="_blank" rel="noopener noreferrer">View Features</a>
 
 Modern payment processing platform with secure transactions, comprehensive analytics, and enterprise-grade features.
 
@@ -149,7 +149,7 @@ Modern payment processing platform with secure transactions, comprehensive analy
 ---
 
 ### 🏥 FastXRay - Medical Imaging Platform
-**Live:** [fastxray.xyz](https://fastxray.xyz/) | **Features:** [View Features](https://fastxray.xyz/features)
+**Live:** <a href="https://fastxray.xyz/" target="_blank" rel="noopener noreferrer">fastxray.xyz</a> | **Features:** <a href="https://fastxray.xyz/features" target="_blank" rel="noopener noreferrer">View Features</a>
 
 Healthcare platform for medical imaging with secure file management, patient records, and HIPAA-compliant infrastructure.
 
@@ -209,9 +209,9 @@ Healthcare platform for medical imaging with secure file management, patient rec
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
 
-- 🌐 **Portfolio:** [Your Portfolio URL]
-- 💼 **LinkedIn:** [Your LinkedIn Profile]
-- 📧 **Email:** hristoxs@gmail.com
+- 🌐 **Portfolio:** <a href="https://yourportfolio.com" target="_blank" rel="noopener noreferrer">Your Portfolio URL</a>
+- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer">Your LinkedIn Profile</a>
+- 📧 **Email:** <a href="mailto:your.email@example.com" target="_blank" rel="noopener noreferrer">your.email@example.com</a>
 
 ---
 
