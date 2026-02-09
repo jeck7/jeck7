@@ -221,6 +221,36 @@ Comprehensive platform for Bulgarian accountants with format conversion, validat
 
 ---
 
+### 📈 Stock Valuation Platform
+**Live:** <a href="https://stockvaluation.ink/" target="_blank" rel="noopener noreferrer">stockvaluation.ink</a>
+
+Platform for stock and ETF valuation with ML predictions, portfolio management, and dividend analysis.
+
+**Tech Stack:** React, Spring Boot, Python (FastAPI), PostgreSQL, Docker, Railway
+
+**Key Features:**
+- 📊 **ML-Powered Analysis** - Stock and ETF valuations with machine learning predictions (Random Forest, XGBoost, LSTM)
+- 💼 **Portfolio Management** - Track stocks, ETFs, and tokenized assets in one place
+- 💰 **Dividend Analysis** - Calculate dividend yield and projected income
+- 🔗 **Tokenized Assets** - Support for tokenized real-world assets (RWA)
+- 🔐 **JWT Authentication** - User registration, login, and role-based access (Admin/User)
+- 📈 **Subscription Plans** - Free tier (20 req/hour) and Premium plans
+- 🚦 **Rate Limiting** - API throttling and usage tracking
+- 📱 **Responsive Design** - Mobile-friendly interface
+- 🌐 **Multi-language** - Bulgarian and English support
+- 🐳 **Docker Ready** - Containerized deployment on Railway
+- 📚 **API Documentation** - RESTful API with Swagger/OpenAPI
+
+**💼 Available For:**
+- ✅ **Purchase** - Full platform with ML models and infrastructure
+- ✅ **Custom Development** - Additional features and ML model improvements
+- ✅ **API Integration** - Integrate valuations into your application
+- ✅ **Consulting** - Setup and deployment assistance
+
+**📬 Interested?** Contact me to discuss how Stock Valuation Platform can support your investment analysis needs.
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
