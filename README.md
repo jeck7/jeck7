@@ -182,6 +182,45 @@ Healthcare platform for medical imaging with secure file management, patient rec
 
 ---
 
+### 🇧🇬 НАП Helper - Счетоводен помощник
+**Live:** <a href="https://naphelper.ink" target="_blank" rel="noopener noreferrer">naphelper.ink</a> | **API Docs:** <a href="https://backend-production-042a.up.railway.app/api/swagger-ui.html" target="_blank" rel="noopener noreferrer">Swagger UI</a>
+
+Comprehensive platform for Bulgarian accountants with format conversion, validation, OCR, tax calculations, and API integration.
+
+**Tech Stack:** React, Spring Boot, PostgreSQL, Docker, Railway
+
+**Key Features:**
+- 🔄 **Format Converter** - Excel/CSV ↔ XML conversion with XSD validation for НАП formats
+- ✅ **Data Validator** - XSD schema validation, EGN/BULSTAT format checking, date validation
+- 📄 **Report Generator** - Automated report generation (PDF/Excel) for tax calculations and summaries
+- 🔍 **OCR Processing** - Extract text from PDFs and images using Tesseract OCR (Bulgarian + English)
+- 💰 **Tax Calculator** - Calculate taxes for rental income (ЗДДФЛ чл. 50), with detailed reports
+- 📋 **Declaration Wizard** - Step-by-step wizard for annual tax declarations
+- 🔐 **RESTful API** - Complete API with Swagger documentation, JWT authentication, API keys
+- 👥 **User Management** - Admin panel for user management, role-based access control (ADMIN/USER)
+- 📊 **Operation History** - Full-text search across all operations and conversions
+- 📈 **Statistics Dashboard** - Usage analytics and operation tracking
+- 🔗 **Client Management** - Manage clients and link declarations to clients
+- 📝 **Template System** - Reusable templates for common operations
+- 🔔 **Webhooks** - Integration support with webhook notifications
+- 📱 **Responsive Design** - Mobile-friendly interface
+- 🌐 **Multi-language Support** - Bulgarian interface with OCR support for Bulgarian text
+- 🔒 **Security** - JWT authentication, rate limiting, API key management
+- 🐳 **Docker Ready** - Containerized deployment with Railway support
+- 📚 **Comprehensive Documentation** - User guides, API documentation, FAQ
+
+**💼 Available For:**
+- ✅ **Purchase** - Complete platform ready for deployment
+- ✅ **Custom Development** - Additional НАП formats and features
+- ✅ **API Integration** - Integrate with existing accounting systems
+- ✅ **White-label Solution** - Rebrand for your accounting firm
+- ✅ **Consulting** - Implementation and setup assistance
+- ✅ **Support & Maintenance** - Ongoing technical support
+
+**📬 Interested?** Contact me to discuss how НАП Helper can streamline your accounting workflow.
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
