@@ -255,9 +255,8 @@ Platform for stock and ETF valuation with ML predictions, portfolio management, 
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeck7&show_icons=true&theme=tokyonight&hide_border=true)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeck7&layout=compact&theme=tokyonight&hide_border=true)
+  ## Stargazers over time
+[![Stargazers over time](https://starchart.cc/davila7/claude-code-templates.svg?variant=adaptive)](https://starchart.cc/davila7/claude-code-templates)
   
 </div>
 
