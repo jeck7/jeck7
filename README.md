@@ -252,7 +252,8 @@ Platform for stock and ETF valuation with ML predictions, portfolio management, 
 ---
 
 📈 eMobility EV Charging Platform  
-Live: (self-hosted / private deployments)
+
+**Live:** <a href="https://frontend-production-fa1a.up.railway.app" target="_blank" rel="noopener noreferrer">https://frontend-production-fa1a.up.railway.app</a>
 
 Platform for managing and visualizing EV charging stations with routing, connector-level pricing, and integrations to public data sources and charging protocols.
 
