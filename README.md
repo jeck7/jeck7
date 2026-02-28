@@ -282,13 +282,6 @@ Key Features:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-  ## Stargazers over time
-[![Stargazers over time](https://starchart.cc/davila7/claude-code-templates.svg?variant=adaptive)](https://starchart.cc/davila7/claude-code-templates)
-  
-</div>
-
 ---
 
 ## 🤝 Why Work With Me?
